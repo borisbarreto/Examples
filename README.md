@@ -1,7 +1,7 @@
 # Examples
 
 Demo Database
-In this tutorial we will use the well-known Northwind sample database.
+
 
 Below is a selection from the "Orders" table:
 
